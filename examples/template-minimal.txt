@@ -1,0 +1,6 @@
+{translated}
+
+────────────────────────────
+{original}
+
+[{original_lang} → {translated_lang}] • {time}
