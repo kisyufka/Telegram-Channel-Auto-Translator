@@ -1,0 +1,25 @@
+🔬 <b>ACADEMIC TRANSLATION</b>
+<small>Technical/Academic Content</small>
+
+════════════════════════════════════════
+
+<b>TRANSLATION ({translated_lang}):</b>
+<pre>{translated}</pre>
+
+<b>ORIGINAL ({original_lang}):</b>
+<pre>{original}</pre>
+
+════════════════════════════════════════
+
+📊 <b>TRANSLATION METADATA</b>
+┌──────────────────────────────────────┐
+│ Translation ID: {int(datetime.timestamp()*1000)} │
+│ Source Lang:    {original_lang}                  │
+│ Target Lang:    {translated_lang}                  │
+│ Timestamp:      {datetime}           │
+│ Character Count: {len(original)}                  │
+│ Translation Engine: Google Translate │
+└──────────────────────────────────────┘
+
+<small><i>Note: Automated translations may contain errors.
+For critical content, verify with human translator.</i></small>
