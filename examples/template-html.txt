@@ -1,0 +1,25 @@
+<div align="center">
+<strong>🌍 TRANSLATION 🌍</strong>
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>🔤 {translated_lang}:</b>
+<blockquote expandable>{translated}</blockquote>
+</td>
+<td width="50%" valign="top">
+<b>🔤 {original_lang}:</b>
+<blockquote expandable>{original}</blockquote>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<small>
+🔄 Auto-translated • 📅 {date} • ⏰ {time} • 🌐 {original_lang} → {translated_lang}
+</small>
+</div>
+
+────────────────────────────
+<i>This message was automatically translated by Telegram Channel Auto-Translator</i>
