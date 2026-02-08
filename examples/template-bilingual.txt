@@ -1,0 +1,16 @@
+🌐 <b>BILINGUAL TRANSLATION</b>
+<i>Double-tap to expand/collapse each section</i>
+
+────────────────────────────
+
+🇬🇧 <b>{translated_lang} VERSION:</b>
+<blockquote expandable>{translated}</blockquote>
+
+────────────────────────────
+
+🇷🇺 <b>{original_lang} VERSION:</b>
+<blockquote expandable>{original}</blockquote>
+
+────────────────────────────
+📅 <i>Translated on {date} at {time}</i>
+🔗 <i>Powered by Google Translate</i>
