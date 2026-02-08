@@ -1,0 +1,17 @@
+🤖 <b>AUTO-TRANSLATED POST</b>
+
+──────────────
+<b>🌐 IN ENGLISH:</b>
+{translated}
+
+<b>🌐 IN RUSSIAN:</b>
+{original}
+──────────────
+
+📊 <i>Translation stats:</i>
+• Languages: {original_lang} → {translated_lang}
+• Time: {time}
+• Date: {date}
+• Status: ✅ Complete
+
+#translation #auto_translate #telegram_bot
