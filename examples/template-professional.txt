@@ -1,0 +1,30 @@
+════════════════════════════════════════
+             🌍 TRANSLATION SERVICE              
+════════════════════════════════════════
+
+▸ <b>SOURCE LANGUAGE:</b> {original_lang}
+▸ <b>TARGET LANGUAGE:</b> {translated_lang}
+▸ <b>TIMESTAMP:</b> {datetime}
+
+────────────────────────────────────────
+
+<b>📖 TRANSLATED TEXT ({translated_lang}):</b>
+<blockquote>{translated}</blockquote>
+
+<b>📖 ORIGINAL TEXT ({original_lang}):</b>
+<blockquote>{original}</blockquote>
+
+────────────────────────────────────────
+
+<code>┌────────────────────────────────────┐
+│  AUTO-TRANSLATION METADATA        │
+├────────────────────────────────────┤
+│ • Engine: Google Translate         │
+│ • Accuracy: 95-98%                 │
+│ • Characters: {len(translated)}      │
+│ • Processed: {time}                │
+└────────────────────────────────────┘</code>
+
+════════════════════════════════════════
+       <i>This is an automated translation</i>       
+════════════════════════════════════════
