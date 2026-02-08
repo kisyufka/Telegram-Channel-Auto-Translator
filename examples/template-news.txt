@@ -1,0 +1,23 @@
+📰 <b>NEWS TRANSLATION</b>
+<small>Automated translation service</small>
+
+────────────────────
+
+<b>HEADLINE IN {translated_lang}:</b>
+{translated}
+
+<b>HEADLINE IN {original_lang}:</b>
+{original}
+
+────────────────────
+
+📋 <b>TRANSLATION DETAILS:</b>
+• Source: {original_lang}
+• Target: {translated_lang}
+• Translator: Google Translate AI
+• Time: {datetime}
+• Confidence: High
+
+────────────────────
+<small>This automated translation is provided for convenience.
+For official translations, consult original sources.</small>
