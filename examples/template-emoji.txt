@@ -1,0 +1,18 @@
+🎯 <b>AUTO TRANSLATION</b> 🎯
+
+──────────────
+🧭 <b>FROM {original_lang}:</b>
+{original}
+
+──────────────
+🔄 <b>TO {translated_lang}:</b>
+{translated}
+
+──────────────
+📅 <b>Date:</b> {date}
+⏰ <b>Time:</b> {time}
+🌐 <b>Languages:</b> {original_lang} → {translated_lang}
+🤖 <b>Translator:</b> Google AI
+
+──────────────
+💡 <i>Tip: Tap to expand text blocks</i>
