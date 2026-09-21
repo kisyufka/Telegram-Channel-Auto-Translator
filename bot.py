@@ -11,7 +11,6 @@ from typing import Dict
 from datetime import datetime
 from deep_translator import GoogleTranslator
 from telebot import types
-
 # ========== ЛОГИРОВАНИЕ ==========
 logging.basicConfig(
     level=logging.INFO,
